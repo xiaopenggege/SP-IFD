@@ -2,6 +2,10 @@
 Authors：Jianpeng Hou, Xiaofeng Wang, Shanmin Pang
 keywords：Few-shot learning, Image forgery detection, Metric learning, Fine-grained classification
 
+#############
+The code will be made public after publication / when necessary.
+#############
+
 ```text
 SP-IFD/
 ├── README.md
